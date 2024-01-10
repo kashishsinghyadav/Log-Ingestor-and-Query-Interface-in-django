@@ -1,4 +1,4 @@
-from django.shortcuts import render
+ from django.shortcuts import render
 from django.db.models import Q
 from log.models import Logl
 from django.views.decorators.csrf import csrf_exempt
